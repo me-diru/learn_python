@@ -1,2 +1,12 @@
 # learn_python
-I forget stuff, so keeping a repo to store python stuff
+
+## Motivation
+- I forget stuff, so maintaining a repo is helpful
+- Be more little consistant
+
+## Resources
+- Can be anything, using pluralsight as I have access to it now.
+
+
+## Some useful blogs
+- [The correct way to work with Python on macOS](https://aviaryan.com/blog/python-mac-setup)
