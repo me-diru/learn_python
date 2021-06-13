@@ -6,7 +6,7 @@
 
 ## Resources
 - Can be anything, using pluralsight as I have access to it now.
-
+- Linkedin Learning
 
 ## Some useful blogs
 - [The correct way to work with Python on macOS](https://aviaryan.com/blog/python-mac-setup)
